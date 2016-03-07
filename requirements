@@ -1,0 +1,4 @@
+build-essential
+libpython2.7
+python-dev
+python2.7-dev

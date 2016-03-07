@@ -3,6 +3,14 @@ python:
   - "2.7"
 
 install:
+    # update aptitude
+    - sudo apt-get update -y
+    - sudo apt-get install aptitude -y
+
+    # install aptitude packages
+    - LDFLAGS=-lm sudo aptitude install -y $(< requirements)
+
+    # install python requirements
     - pip install -r requirements.txt
 
 script:
