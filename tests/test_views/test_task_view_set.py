@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import simplejson as json
+import json
 from django.test import TestCase
 from todomvc.models import Task
 
