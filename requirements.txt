@@ -3,3 +3,4 @@ djangorestframework
 flake8
 coverage
 coveralls
+model_mommy
