@@ -20,7 +20,7 @@ INSTALLED_APPS = (
 )
 ```
 
-At least, Include `todomvc` URLs:
+At least, include `todomvc` URLs:
 
 ```python
 # urls.py
