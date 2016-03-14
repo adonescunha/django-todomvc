@@ -24,8 +24,9 @@ setup(
         'Natural Language :: English',
         'Operating System :: OS Independent',
         'Programming Language :: Python',
-    ]
+    ],
     install_requires=[
+        'djangorestframework'
     ],
     zip_safe=False,
 )
