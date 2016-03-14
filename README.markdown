@@ -1,5 +1,7 @@
 # django-todomvc
+[![PyPI version](https://badge.fury.io/py/django-todomvc.svg)](https://badge.fury.io/py/django-todomvc)
 [![Build Status](https://travis-ci.org/adonescunha/django-todomvc.svg?branch=master)](https://travis-ci.org/adonescunha/django-todomvc) [![Coverage Status](https://coveralls.io/repos/adonescunha/django-todomvc/badge.svg?branch=master&service=github)](https://coveralls.io/github/adonescunha/django-todomvc?branch=master)
+[![Requirements Status](https://requires.io/github/adonescunha/django-todomvc/requirements.svg?branch=master)](https://requires.io/github/adonescunha/django-todomvc/requirements/?branch=master)
 
 [TodoMVC](http://todomvc.com/) backend built as a Django app.
 
